@@ -1,6 +1,6 @@
 ### Welcome to my repository!
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiengorgoni/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-pav%C3%A9-a99a50156/)
 
 I am Guillaume Pavé, a Master's student in Finance (Fintech & Data science) at [HEC Lausanne](https://www.unil.ch/hec/en/home.html). I aspire to work in the asset management or trading industry.
 
